@@ -34,6 +34,11 @@ docker.service - Docker Application Container Engine
  Main PID: 749 (docker)
  
 ```
+```sh
+
+sudo systemctl enable docker
+
+```
 
 
 
