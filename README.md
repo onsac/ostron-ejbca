@@ -44,7 +44,11 @@ sudo systemctl enable docker
 sudo docker pull primekey/ejbca-ce
 
 ```
+```sh
 
+sudo docker run -it -d --rm -p 80:8080 -p 443:8443 -h ejbca.ostron.com -e TLS_SETUP_ENABLED="simple" primekey/ejbca-ce
+
+```
 
 
 
