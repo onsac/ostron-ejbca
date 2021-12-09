@@ -21,8 +21,7 @@ sudo systemctl start docker
 
 ```
 ```sh
-
-sudo systemctl start docker
+sudo systemctl status docker
 
 ```
 ```sh
@@ -49,6 +48,20 @@ sudo docker pull primekey/ejbca-ce
 sudo docker run -it -d --rm -p 80:8080 -p 443:8443 -h ejbca.ostron.com -e TLS_SETUP_ENABLED="simple" primekey/ejbca-ce
 
 ```
+```sh
+
+C:\windows\system32\drivers\etc\hosts
+192.168.10.9    ejbca.ostron.com
+
+```
+```sh
+
+https://ejbca.ostron.com/ejbca/adminweb/
+
+```
+
+
+
 
 
 
