@@ -5,6 +5,17 @@ Setup EJBCA Docker
 
 Manual de instalação do EJBCA
 
+Requirements
+
+SO : centos 7 ou redhat 7
+
+Hardware Requirements
+The following minimum hardware specifications are recommended for the guest virtual machine (VM).
+
+RAM: 12 GB
+Disk space: 30 GB
+CPU cores: Minimum 4 cores allocated
+
 ```sh
 
 sudo yum check-update
