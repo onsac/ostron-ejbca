@@ -15,6 +15,11 @@ sudo yum check-update
 curl -fsSL https://get.docker.com/ | sh
 
 ```
+```sh
+
+sudo systemctl start docker
+
+```
 
 
 
