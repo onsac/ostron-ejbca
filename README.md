@@ -39,6 +39,11 @@ docker.service - Docker Application Container Engine
 sudo systemctl enable docker
 
 ```
+```sh
+
+sudo docker pull primekey/ejbca-ce
+
+```
 
 
 
