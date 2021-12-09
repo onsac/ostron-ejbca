@@ -10,6 +10,11 @@ Manual de instalação do EJBCA
 sudo yum check-update
 
 ```
+```sh
+
+curl -fsSL https://get.docker.com/ | sh
+
+```
 
 
 
