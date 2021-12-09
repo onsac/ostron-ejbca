@@ -8,3 +8,6 @@ Manual de instalação do EJBCA
 ```sh
 sudo yum check-update
 ```
+```sh
+vascão
+```
