@@ -5,9 +5,11 @@ Setup EJBCA Docker
 
 Manual de instalação do EJBCA
 
-`` `sh
+```sh
+
 sudo yum check-update
-`` `
+
+```
 
 
 
