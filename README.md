@@ -13,7 +13,7 @@
   </p>
 
 
-# ostron-ejbca
+# Ostron-ejbca
 Setup EJBCA Docker
 
 ## Install-EJBCA
